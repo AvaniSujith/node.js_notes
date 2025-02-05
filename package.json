@@ -1,0 +1,11 @@
+{
+  "name": "node.js_notes",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "node-package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avani S",
+  "license": "ISC"
+}
