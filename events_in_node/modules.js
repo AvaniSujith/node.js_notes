@@ -13,7 +13,6 @@ console.log(calc2.multiply(9, 10));
 
 
 ///caching
-
 require("./test-module-3")();
 require("./test-module-3")();
 require("./test-module-3")();

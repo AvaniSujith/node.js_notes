@@ -46,3 +46,5 @@
 
 
 // MODULES -- resolving & loading ---> Wrapping ---> execution --> returning exports --> caching
+
+// resolve promise  - promise that returns with a data.
